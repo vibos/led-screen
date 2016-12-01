@@ -10,6 +10,6 @@ led.build(id, Text, DotRadius)
 document.addEventListener('DOMContentLoaded', function() {
 	var led = new ledPanel();
 	led.build("ledpanel", "Running LED Lights", 3);
-	led.animate(30);
+	led.animate(30);	// dots per second
 });
 ```
