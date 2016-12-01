@@ -1,0 +1,20 @@
+.ico-svg {
+    font-size: 10px;
+}
+
+.ico-svg:before {
+    content:' ';
+    vertical-align:middle;
+    display: inline-block;
+    background-image: url("../img/sprite/sprite.svg");
+    background-repeat: no-repeat;
+    background-size: 0em 0em;
+}
+
+.no-svg .ico-svg:before {
+    background-image: url("../img/sprite/sprite-svg.png");
+}
+
+
+
+
