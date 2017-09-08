@@ -2,7 +2,7 @@
 Emulate LED screen using HTML5 Canvas
 
 # Demo
-http://vibos.com.ua/demo/led-screen/
+https://vibos.github.io/led-screen/
 
 # Getting Started
 ```sh
